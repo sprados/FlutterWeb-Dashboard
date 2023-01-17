@@ -22984,7 +22984,7 @@ if(typeof print=="function"){print(a)
 return}throw"Unable to print message: "+String(a)},
 aqb(){var s,r=$.vV().CP$
 r===$&&A.b()
-r.o2$="http://localhost:8080/api"
+r.o2$="https://fluterweb-dashboard.onrender.com/api"
 s=A.ce(J.bf($.rY.aK().a,"token"))
 r.sOJ(0,A.aA(["x-token",s==null?"":s],t.N,t.z))},
 qR(a){return A.aDB(a)},
